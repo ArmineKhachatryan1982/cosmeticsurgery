@@ -1,3 +1,4 @@
+
 <template>
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
@@ -36,7 +37,8 @@
             <nav class="navbar navbar-expand-lg navbar-light bg-white px-4 px-lg-5 py-3 py-lg-0">
                 <a href="index.html" class="navbar-brand p-0">
                     <h1 class="text-primary m-0"><i class="fas fa-star-of-life me-3"></i>Terapia</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
+
+
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -65,9 +67,9 @@
 
 
             <!-- Carousel Start -->
-            <div class="header-carousel owl-carousel">
+            <!-- <div class="header-carousel owl-carousel">
                 <div class="header-carousel-item">
-                    <img src="img/carousel-1.jpg" class="img-fluid w-100" alt="Image">
+                    <img src="../../../../assets/img/carousel-1.jpg" class="img-fluid w-100" alt="Image">
                     <div class="carousel-caption">
                         <div class="carousel-caption-content p-3">
                             <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Physiotherapy Center</h5>
@@ -79,7 +81,7 @@
                     </div>
                 </div>
                 <div class="header-carousel-item">
-                    <img src="img/carousel-2.jpg" class="img-fluid w-100" alt="Image">
+                    <img src="../../../../public/assets/img/carousel-2.jpg" class="img-fluid w-100" alt="Image">
                     <div class="carousel-caption">
                         <div class="carousel-caption-content p-3">
                             <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Physiotherapy Center</h5>
@@ -90,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Carousel End -->
         </div>
         <!-- Navbar & Hero End -->

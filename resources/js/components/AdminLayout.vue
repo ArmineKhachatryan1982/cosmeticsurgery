@@ -6,8 +6,8 @@
 </script>
 <template>
     <Navbar />
-    <Footer />
-    <router-view/>
 
+    <router-view/>
+    <Footer />
 
 </template>
